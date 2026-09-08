@@ -1,3 +1,5 @@
+#Alunos: Emanuel Mendes e Tiago Cassol
+
 # Painel de Projeção de Capacidade Prisional e Reincidência (PCPR)
 
 Projeto de dados abertos para projetar a ocupação de unidades prisionais e estimar risco agregado de reincidência, com o objetivo de apoiar decisões de gestão do sistema penitenciário — não de substituí-las.
