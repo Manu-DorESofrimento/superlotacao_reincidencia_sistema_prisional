@@ -1,8 +1,7 @@
 """
 Pré-processamento e engenharia de atributos — Sprint 2 (MVP Analítico)
 
-Consolida os dados reais coletados na Sprint 1 (ver docs/levantamento-datasets.md e
-notebooks/01_eda_infopen_sap.ipynb) em duas tabelas de features prontas para modelagem:
+Consolida os dados reais coletados na Sprint 1 em duas tabelas de features prontas para modelagem:
 
   1. features_serie_temporal.csv — série anual (nacional + SP) com atributos de lag e
      taxa de crescimento, usada para o baseline de projeção de população/ocupação.
