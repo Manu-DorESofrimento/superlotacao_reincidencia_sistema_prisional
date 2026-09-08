@@ -14,7 +14,7 @@ Nenhum dado é simulado: todos os valores de entrada vêm das fontes documentada
 docs/levantamento-datasets.md (INFOPEN/DEPEN via artigo peer-reviewed, SAP-SP oficial).
 
 Uso:
-    python src/features/preprocessamento_sprint2.py
+    python3 src/features/preprocessamento_sprint2.py
 """
 
 import logging
