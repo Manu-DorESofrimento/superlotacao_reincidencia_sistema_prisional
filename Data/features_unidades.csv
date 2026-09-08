@@ -1,0 +1,11 @@
+unidade,tipo,capacidade,populacao,taxa_ocupacao,log_capacidade,critico,tipo_APP,tipo_CDP,tipo_PRSA,tipo_Penitenciária
+"Álvaro de Carvalho - Penit. I ""Valentim Alves da Silva""",Penitenciária,873,1610,1.8442153493699887,6.771935555839602,1,False,False,False,True
+Álvaro de Carvalho - APP,APP,222,281,1.2657657657657657,5.402677381872279,0,True,False,False,False
+CDP Álvaro de Carvalho,CDP,821,1568,1.9098660170523751,6.710523109452428,1,False,True,False,False
+Andradina - Penitenciária,Penitenciária,1291,2197,1.7017815646785437,7.1631723908466425,1,False,False,False,True
+Araraquara - Penit. Dr. Sebastião Martins Silveira,Penitenciária,1312,2255,1.71875,7.179307969504034,1,False,False,False,True
+Araraquara - PRSA,PRSA,248,293,1.1814516129032258,5.5134287461649825,0,False,False,True,False
+Presidente Bernardes - Penitenciária,Penitenciária,1247,2368,1.8989574979951884,7.1284959456800365,1,False,False,False,True
+Presidente Bernardes - APP,APP,204,257,1.2598039215686274,5.318119993844216,0,True,False,False,False
+Presidente Prudente - Penitenciária,Penitenciária,693,1297,1.8715728715728717,6.541029999189903,1,False,False,False,True
+Presidente Prudente - PRSA,PRSA,267,340,1.2734082397003745,5.58724865840025,0,False,False,True,False
